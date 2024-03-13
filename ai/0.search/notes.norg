@@ -1,0 +1,6 @@
+* Lecture 0 - Search
+* Search Problems
+  A search problem is one in which we navigate from a starting state to a finishing state via transitioning through intermediate states.
+
+** Agent
+   An entity that percieves and acts upon its environment.
